@@ -1,6 +1,5 @@
 {
-	 "name":				"openlss/lib-array2xml"
-	,"homepage":			"http://openlss.org"
+	 "name":				"mcapodacqua/lib-array2xml"
 	,"description":			"Array2XML conversion library credit to lalit.org"
 	,"license":				"Apache-2.0"
 	,"type":				"library"
